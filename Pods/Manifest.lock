@@ -1,0 +1,20 @@
+PODS:
+  - ObjectMapper (3.1.0)
+  - Realm (3.4.0):
+    - Realm/Headers (= 3.4.0)
+  - Realm/Headers (3.4.0)
+  - RealmSwift (3.4.0):
+    - Realm (= 3.4.0)
+
+DEPENDENCIES:
+  - ObjectMapper (~> 3.1.0)
+  - RealmSwift
+
+SPEC CHECKSUMS:
+  ObjectMapper: 20505058f54e5c3ca69e1d6de9897d152a5369a6
+  Realm: 9527c7baa2260f3a3aad6823d2d71cafff9b046b
+  RealmSwift: f40a747beaea1cadde7dcef41ee5a34b3001677b
+
+PODFILE CHECKSUM: 4e251f0a2e47a4fe3adc9c13e539ee608267d898
+
+COCOAPODS: 1.4.0
